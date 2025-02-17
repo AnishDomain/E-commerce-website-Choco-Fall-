@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "image": "slide1",
+      "TYPE": "DarkChocolate",
+      "BRAND": "DarkyChocolate",
+      "PRICE": 100,
+      "QUANTITY": 1
+    },
+    {
+      "id": "2",
+      "image": "slide2",
+      "TYPE": "WhiteChocolate",
+      "BRAND": "CaramelChocolate",
+      "PRICE": 100,
+      "QUANTITY": 1
+    },
+    {
+      "id": "3",
+      "image": "slide3",
+      "TYPE": "BlueChocolate",
+      "BRAND": "BlueCaramelChocolate",
+      "PRICE": 105,
+      "QUANTITY": 1
+    }
+  ]
+}
