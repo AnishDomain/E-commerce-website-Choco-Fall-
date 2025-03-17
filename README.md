@@ -25,7 +25,8 @@ An elegant and functional e-commerce website for chocolates and sweets, built us
 
 ---
 
-Screenshots
+Screenshots:
+
 Homepage:https://i.imgur.com/iVjUyBr.png
 Productfilter page:https://i.imgur.com/I01NOJ1.png
 Cartpage:https://i.imgur.com/uPiYNIh.png
